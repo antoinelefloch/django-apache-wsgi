@@ -1,6 +1,9 @@
 # django-apache-wsgi
 django-apache-wsgi
 
+tested with Apache 2.4.18
+python 3.5.2
+
 ------------ create new user in docker container (/root not readable if using "root" user)  
 adduser bob
 
